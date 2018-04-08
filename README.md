@@ -10,10 +10,8 @@ python noisy_dqn.py
 This will start the noisy DQN training for the pong atari game.
 
 To do vanilla DQN trainining run:-(Note - epsiolon greedy exploration will not happen even for the vanilla DQN case) 
-```
-python noisy_dqn.py --NoisyDQN True
+python noisy_dqn.py --NoisyDQN False
 
-```
 
 Below is the plot showing the evolution of loss and reward with training for the noisy DQN case over the pong environment.
 
