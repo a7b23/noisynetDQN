@@ -20,3 +20,6 @@ Below is the plot showing the evolution of loss and reward with training for the
 ![](losses.png)
 
 ![](rewards.png)
+
+#### Acknowledgment
+Code borrowed from [RL-Adventure](https://github.com/higgsfield/RL-Adventure)
